@@ -1,2 +1,2 @@
 This_Tuple=('apple','banana','cherry','grapes')
-print('Given tuple elements are:',This_Tuple)
+print('After modificaton the fruits names are:',This_Tuple)
